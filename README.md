@@ -76,10 +76,22 @@ Sharpening problem-solving and logic through hands-on DSA practice.
 QuanTetra-Academy/
 │
 ├── Computer-Fundamentals/
+│   ├── Hardware/
+│   ├── Software/
+│   ├── Networking/
 ├── File-Management/
 ├── Operating-System/
+│   ├── Window/
+│   ├── Mac/
+│   ├── Linux/
 ├── MS-Office/
+│   ├── Word/
+│   ├── PowerPoint/
+│   ├── Excel/
+│   ├── Power BI/
 ├── Accounting-Software/
+│   ├── ERP 9/
+│   ├── Tally Prime/
 ├── Development/
 │   ├── Browser & BOM/
 │   ├── HTML/
